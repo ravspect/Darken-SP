@@ -1,0 +1,1868 @@
+title: Darkmode SP
+originalAuthor: Ravspect
+description: Make SP easier to look at.
+game: kh2
+dependencies: 
+assets:
+
+#Pit Cell
+- name: remastered\map\tr00.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-1.dds
+- name: remastered\map\tr00.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-2.dds
+- name: remastered\map\tr00.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-3.dds
+- name: remastered\map\tr00.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-7.dds
+- name: remastered\map\tr00.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-8.dds
+- name: remastered\map\tr00.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-9.dds
+- name: remastered\map\tr00.map\-10.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-10.dds
+- name: remastered\map\tr00.map\-11.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-11.dds
+- name: remastered\map\tr00.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-12.dds
+- name: remastered\map\tr00.map\-14.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-14.dds
+- name: remastered\map\tr00.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-15.dds
+- name: remastered\map\tr00.map\-20.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-20.dds
+- name: remastered\map\tr00.map\-22.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-22.dds
+- name: remastered\map\tr00.map\-23.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-23.dds
+- name: remastered\map\tr00.map\-24.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-24.dds
+- name: remastered\map\tr00.map\-27.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-27.dds
+- name: remastered\map\tr00.map\-28.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-28.dds
+- name: remastered\map\tr00.map\-29.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-29.dds
+- name: remastered\map\tr00.map\-30.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-30.dds
+- name: remastered\map\tr00.map\-46.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-46.dds
+- name: remastered\map\tr00.map\-51.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr00.map\-51.dds
+
+# Canyon
+- name: remastered\map\tr01.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-0.dds
+- name: remastered\map\tr01.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-1.dds
+- name: remastered\map\tr01.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-2.dds
+- name: remastered\map\tr01.map\-5.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-5.dds
+- name: remastered\map\tr01.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-8.dds
+- name: remastered\map\tr01.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-9.dds
+- name: remastered\map\tr01.map\-10.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-10.dds
+- name: remastered\map\tr01.map\-11.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-11.dds
+- name: remastered\map\tr01.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-12.dds
+- name: remastered\map\tr01.map\-13.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-13.dds
+- name: remastered\map\tr01.map\-14.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-14.dds
+- name: remastered\map\tr01.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-15.dds
+- name: remastered\map\tr01.map\-16.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-16.dds
+- name: remastered\map\tr01.map\-17.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-17.dds
+- name: remastered\map\tr01.map\-18.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-18.dds
+- name: remastered\map\tr01.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-21.dds
+- name: remastered\map\tr01.map\-23.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-23.dds
+- name: remastered\map\tr01.map\-26.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-26.dds
+- name: remastered\map\tr01.map\-27.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-27.dds
+- name: remastered\map\tr01.map\-28.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-28.dds
+- name: remastered\map\tr01.map\-29.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-29.dds
+- name: remastered\map\tr01.map\-32.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-32.dds
+- name: remastered\map\tr01.map\-33.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-33.dds
+- name: remastered\map\tr01.map\-34.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-34.dds
+- name: remastered\map\tr01.map\-36.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-36.dds
+- name: remastered\map\tr01.map\-41.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-41.dds
+- name: remastered\map\tr01.map\-42.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-42.dds
+- name: remastered\map\tr01.map\-43.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-43.dds
+- name: remastered\map\tr01.map\-44.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-44.dds
+- name: remastered\map\tr01.map\-45.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-45.dds
+- name: remastered\map\tr01.map\-52.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-52.dds
+- name: remastered\map\tr01.map\-53.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-53.dds
+- name: remastered\map\tr01.map\-55.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-55.dds
+- name: remastered\map\tr01.map\-58.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-58.dds
+- name: remastered\map\tr01.map\-60.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-60.dds
+- name: remastered\map\tr01.map\-61.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-61.dds
+- name: remastered\map\tr01.map\-62.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-62.dds
+- name: remastered\map\tr01.map\-70.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-70.dds
+- name: remastered\map\tr01.map\-71.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr01.map\-71.dds
+
+# Light Cycle Arena
+- name: remastered\map\tr02.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-0.dds
+- name: remastered\map\tr02.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-1.dds
+- name: remastered\map\tr02.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-3.dds
+- name: remastered\map\tr02.map\-4.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-4.dds
+- name: remastered\map\tr02.map\-5.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-5.dds
+- name: remastered\map\tr02.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-8.dds
+- name: remastered\map\tr02.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-9.dds
+- name: remastered\map\tr02.map\-10.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-10.dds
+- name: remastered\map\tr02.map\-11.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-11.dds
+- name: remastered\map\tr02.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-12.dds
+- name: remastered\map\tr02.map\-13.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-13.dds
+- name: remastered\map\tr02.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-15.dds
+- name: remastered\map\tr02.map\-16.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-16.dds
+- name: remastered\map\tr02.map\-17.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr02.map\-17.dds
+
+# Dataspace
+- name: remastered\map\tr03.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-0.dds
+- name: remastered\map\tr03.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-1.dds
+- name: remastered\map\tr03.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-2.dds
+- name: remastered\map\tr03.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-3.dds
+- name: remastered\map\tr03.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-8.dds
+- name: remastered\map\tr03.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-9.dds
+- name: remastered\map\tr03.map\-13.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-13.dds
+- name: remastered\map\tr03.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-15.dds
+- name: remastered\map\tr03.map\-16.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-16.dds
+- name: remastered\map\tr03.map\-17.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-17.dds
+- name: remastered\map\tr03.map\-18.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-18.dds
+- name: remastered\map\tr03.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-21.dds
+- name: remastered\map\tr03.map\-28.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-28.dds
+- name: remastered\map\tr03.map\-29.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-29.dds
+- name: remastered\map\tr03.map\-30.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-30.dds
+- name: remastered\map\tr03.map\-31.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-31.dds
+- name: remastered\map\tr03.map\-32.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-32.dds
+- name: remastered\map\tr03.map\-33.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-33.dds
+- name: remastered\map\tr03.map\-34.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-34.dds
+- name: remastered\map\tr03.map\-35.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-35.dds
+- name: remastered\map\tr03.map\-36.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-36.dds
+- name: remastered\map\tr03.map\-38.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-38.dds
+- name: remastered\map\tr03.map\-40.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-40.dds
+- name: remastered\map\tr03.map\-41.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-41.dds
+- name: remastered\map\tr03.map\-42.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-42.dds
+- name: remastered\map\tr03.map\-45.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-45.dds
+- name: remastered\map\tr03.map\-49.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-49.dds
+- name: remastered\map\tr03.map\-56.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-56.dds
+- name: remastered\map\tr03.map\-58.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-58.dds
+- name: remastered\map\tr03.map\-59.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-59.dds
+- name: remastered\map\tr03.map\-60.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-60.dds
+- name: remastered\map\tr03.map\-61.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-61.dds
+- name: remastered\map\tr03.map\-62.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr03.map\-62.dds
+
+# I/O Tower: Hallway
+- name: remastered\map\tr04.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-0.dds
+- name: remastered\map\tr04.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-1.dds
+- name: remastered\map\tr04.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-2.dds
+- name: remastered\map\tr04.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-3.dds
+- name: remastered\map\tr04.map\-4.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-4.dds
+- name: remastered\map\tr04.map\-5.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-5.dds
+- name: remastered\map\tr04.map\-6.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-6.dds
+- name: remastered\map\tr04.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-7.dds
+- name: remastered\map\tr04.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-8.dds
+- name: remastered\map\tr04.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-9.dds
+- name: remastered\map\tr04.map\-11.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-11.dds
+- name: remastered\map\tr04.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-12.dds
+- name: remastered\map\tr04.map\-13.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-13.dds
+- name: remastered\map\tr04.map\-14.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-14.dds
+- name: remastered\map\tr04.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-15.dds
+- name: remastered\map\tr04.map\-18.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-18.dds
+- name: remastered\map\tr04.map\-19.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-19.dds
+- name: remastered\map\tr04.map\-20.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-20.dds
+- name: remastered\map\tr04.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-21.dds
+- name: remastered\map\tr04.map\-23.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-23.dds
+- name: remastered\map\tr04.map\-34.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-34.dds
+- name: remastered\map\tr04.map\-36.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-36.dds
+- name: remastered\map\tr04.map\-37.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-37.dds
+- name: remastered\map\tr04.map\-38.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-38.dds
+- name: remastered\map\tr04.map\-40.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-40.dds
+- name: remastered\map\tr04.map\-42.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-42.dds
+- name: remastered\map\tr04.map\-43.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-43.dds
+- name: remastered\map\tr04.map\-44.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-44.dds
+- name: remastered\map\tr04.map\-45.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-45.dds
+- name: remastered\map\tr04.map\-47.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-47.dds
+- name: remastered\map\tr04.map\-48.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-48.dds
+- name: remastered\map\tr04.map\-49.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-49.dds
+- name: remastered\map\tr04.map\-50.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-50.dds
+- name: remastered\map\tr04.map\-51.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr04.map\-51.dds
+
+#I/O Tower
+- name: remastered\map\tr05.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-0.dds
+- name: remastered\map\tr05.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-1.dds
+- name: remastered\map\tr05.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-2.dds
+- name: remastered\map\tr05.map\-6.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-6.dds
+- name: remastered\map\tr05.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-7.dds
+- name: remastered\map\tr05.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-8.dds
+- name: remastered\map\tr05.map\-10.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-10.dds
+- name: remastered\map\tr05.map\-11.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-11.dds
+- name: remastered\map\tr05.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-12.dds
+- name: remastered\map\tr05.map\-17.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-17.dds
+- name: remastered\map\tr05.map\-18.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr05.map\-18.dds
+
+#Solar Sailor Port
+- name: remastered\map\tr06.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-0.dds
+- name: remastered\map\tr06.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-1.dds
+- name: remastered\map\tr06.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-2.dds
+- name: remastered\map\tr06.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-3.dds
+- name: remastered\map\tr06.map\-4.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-4.dds
+- name: remastered\map\tr06.map\-5.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-5.dds
+- name: remastered\map\tr06.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-7.dds
+- name: remastered\map\tr06.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-8.dds
+- name: remastered\map\tr06.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-9.dds
+- name: remastered\map\tr06.map\-10.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-10.dds
+- name: remastered\map\tr06.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-12.dds
+- name: remastered\map\tr06.map\-13.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-13.dds
+- name: remastered\map\tr06.map\-14.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-14.dds
+- name: remastered\map\tr06.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-15.dds
+- name: remastered\map\tr06.map\-16.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-16.dds
+- name: remastered\map\tr06.map\-18.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-18.dds
+- name: remastered\map\tr06.map\-19.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-19.dds
+- name: remastered\map\tr06.map\-20.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-20.dds
+- name: remastered\map\tr06.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-21.dds
+- name: remastered\map\tr06.map\-22.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-22.dds
+- name: remastered\map\tr06.map\-23.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-23.dds
+- name: remastered\map\tr06.map\-24.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-24.dds
+- name: remastered\map\tr06.map\-25.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-25.dds
+- name: remastered\map\tr06.map\-26.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-26.dds
+- name: remastered\map\tr06.map\-27.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-27.dds
+- name: remastered\map\tr06.map\-28.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-28.dds
+- name: remastered\map\tr06.map\-29.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-29.dds
+- name: remastered\map\tr06.map\-30.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-30.dds
+- name: remastered\map\tr06.map\-31.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-31.dds
+- name: remastered\map\tr06.map\-32.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-32.dds
+- name: remastered\map\tr06.map\-33.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-33.dds
+- name: remastered\map\tr06.map\-34.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-34.dds
+- name: remastered\map\tr06.map\-35.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-35.dds
+- name: remastered\map\tr06.map\-36.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-36.dds
+- name: remastered\map\tr06.map\-37.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-37.dds
+- name: remastered\map\tr06.map\-38.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-38.dds
+- name: remastered\map\tr06.map\-39.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-39.dds
+- name: remastered\map\tr06.map\-40.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-40.dds
+- name: remastered\map\tr06.map\-41.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-41.dds
+- name: remastered\map\tr06.map\-50.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-50.dds
+- name: remastered\map\tr06.map\-51.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-51.dds
+- name: remastered\map\tr06.map\-56.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-56.dds
+- name: remastered\map\tr06.map\-62.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr06.map\-62.dds
+- name: remastered\map\tr06.map\-63.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-63.dds
+
+
+# Solar Sailor Simulation
+- name: remastered\map\tr10.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-0.dds
+- name: remastered\map\tr10.map\-1.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-1.dds
+- name: remastered\map\tr10.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-2.dds
+- name: remastered\map\tr10.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-3.dds
+- name: remastered\map\tr10.map\-4.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-4.dds
+- name: remastered\map\tr10.map\-5.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-5.dds
+- name: remastered\map\tr10.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-7.dds
+- name: remastered\map\tr10.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-8.dds
+- name: remastered\map\tr10.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-9.dds
+- name: remastered\map\tr10.map\-10.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-10.dds
+- name: remastered\map\tr10.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-12.dds
+- name: remastered\map\tr10.map\-13.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-13.dds
+- name: remastered\map\tr10.map\-14.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-14.dds
+- name: remastered\map\tr10.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-15.dds
+- name: remastered\map\tr10.map\-16.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-16.dds
+- name: remastered\map\tr10.map\-18.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-18.dds
+- name: remastered\map\tr10.map\-19.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-19.dds
+- name: remastered\map\tr10.map\-20.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-20.dds
+- name: remastered\map\tr10.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-21.dds
+- name: remastered\map\tr10.map\-22.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-22.dds
+- name: remastered\map\tr10.map\-23.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-23.dds
+- name: remastered\map\tr10.map\-24.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-24.dds
+- name: remastered\map\tr10.map\-25.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-25.dds
+- name: remastered\map\tr10.map\-26.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-26.dds
+- name: remastered\map\tr10.map\-27.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-27.dds
+- name: remastered\map\tr10.map\-28.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-28.dds
+- name: remastered\map\tr10.map\-29.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-29.dds
+- name: remastered\map\tr10.map\-30.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-30.dds
+- name: remastered\map\tr10.map\-31.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-31.dds
+- name: remastered\map\tr10.map\-32.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-32.dds
+- name: remastered\map\tr10.map\-33.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-33.dds
+- name: remastered\map\tr10.map\-34.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-34.dds
+- name: remastered\map\tr10.map\-35.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-35.dds
+- name: remastered\map\tr10.map\-36.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-36.dds
+- name: remastered\map\tr10.map\-37.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-37.dds
+- name: remastered\map\tr10.map\-38.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-38.dds
+- name: remastered\map\tr10.map\-39.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-39.dds
+- name: remastered\map\tr10.map\-40.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-40.dds
+- name: remastered\map\tr10.map\-41.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-41.dds
+- name: remastered\map\tr10.map\-50.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-50.dds
+- name: remastered\map\tr10.map\-51.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-51.dds
+- name: remastered\map\tr10.map\-56.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-56.dds
+- name: remastered\map\tr10.map\-62.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-62.dds
+- name: remastered\map\tr10.map\-63.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr10.map\-63.dds
+
+#Solar Sailor (Fight)
+- name: remastered\map\tr07.map\-6.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr07.map\-6.dds
+- name: remastered\map\tr07.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr07.map\-7.dds
+- name: remastered\map\tr07.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr07.map\-8.dds
+
+# Central Computer Mesa
+- name: remastered\map\tr08.map\-6.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-6.dds
+- name: remastered\map\tr08.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-7.dds
+- name: remastered\map\tr08.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-9.dds
+- name: remastered\map\tr08.map\-11.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-11.dds
+- name: remastered\map\tr08.map\-13.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-13.dds
+- name: remastered\map\tr08.map\-14.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-14.dds
+- name: remastered\map\tr08.map\-19.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-19.dds
+- name: remastered\map\tr08.map\-20.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-20.dds
+- name: remastered\map\tr08.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-21.dds
+- name: remastered\map\tr08.map\-27.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-27.dds
+- name: remastered\map\tr08.map\-28.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-28.dds
+- name: remastered\map\tr08.map\-30.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-30.dds
+- name: remastered\map\tr08.map\-31.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-31.dds
+- name: remastered\map\tr08.map\-32.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-32.dds
+- name: remastered\map\tr08.map\-33.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-33.dds
+- name: remastered\map\tr08.map\-35.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-35.dds
+- name: remastered\map\tr08.map\-36.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-36.dds
+- name: remastered\map\tr08.map\-37.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-37.dds
+- name: remastered\map\tr08.map\-38.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-38.dds
+- name: remastered\map\tr08.map\-41.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-41.dds
+- name: remastered\map\tr08.map\-42.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-42.dds
+- name: remastered\map\tr08.map\-43.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-43.dds
+- name: remastered\map\tr08.map\-46.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-46.dds
+- name: remastered\map\tr08.map\-48.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-48.dds
+- name: remastered\map\tr08.map\-49.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-49.dds
+- name: remastered\map\tr08.map\-50.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr08.map\-50.dds
+
+# Solar Sailor Simulation (MCP side)
+- name: remastered\map\tr11.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-3.dds
+- name: remastered\map\tr11.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-7.dds
+- name: remastered\map\tr11.map\-8.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-8.dds
+- name: remastered\map\tr11.map\-10.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-10.dds
+- name: remastered\map\tr11.map\-12.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-12.dds
+- name: remastered\map\tr11.map\-14.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-14.dds
+- name: remastered\map\tr11.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-21.dds
+- name: remastered\map\tr11.map\-22.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-22.dds
+- name: remastered\map\tr11.map\-32.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-32.dds
+- name: remastered\map\tr11.map\-33.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-33.dds
+- name: remastered\map\tr11.map\-34.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-34.dds
+- name: remastered\map\tr11.map\-35.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-35.dds
+- name: remastered\map\tr11.map\-36.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-36.dds
+- name: remastered\map\tr11.map\-37.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-37.dds
+- name: remastered\map\tr11.map\-38.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-38.dds
+- name: remastered\map\tr11.map\-41.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-41.dds
+- name: remastered\map\tr11.map\-42.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-42.dds
+- name: remastered\map\tr11.map\-45.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-45.dds
+- name: remastered\map\tr11.map\-48.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr11.map\-48.dds
+
+#MCP room (Whatever it's called)
+- name: remastered\map\tr09.map\-0.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-0.dds
+- name: remastered\map\tr09.map\-2.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-2.dds
+- name: remastered\map\tr09.map\-3.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-3.dds
+- name: remastered\map\tr09.map\-4.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-4.dds
+- name: remastered\map\tr09.map\-5.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-5.dds
+- name: remastered\map\tr09.map\-6.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-6.dds
+- name: remastered\map\tr09.map\-7.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-7.dds
+- name: remastered\map\tr09.map\-9.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-9.dds
+- name: remastered\map\tr09.map\-11.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-11.dds
+- name: remastered\map\tr09.map\-15.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-15.dds
+- name: remastered\map\tr09.map\-16.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-16.dds
+- name: remastered\map\tr09.map\-18.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-18.dds
+- name: remastered\map\tr09.map\-19.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-19.dds
+- name: remastered\map\tr09.map\-21.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-21.dds
+- name: remastered\map\tr09.map\-23.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-23.dds
+- name: remastered\map\tr09.map\-24.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-24.dds
+- name: remastered\map\tr09.map\-25.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-25.dds
+- name: remastered\map\tr09.map\-30.dds
+  method: copy
+  platform: pc
+  package: Darkmode SP
+  source:
+  - name: remastered\map\tr09.map\-30.dds
+
